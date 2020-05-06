@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/contact-manager-redux/static/css/main.36497136.chunk.css",
-    "main.js": "/contact-manager-redux/static/js/main.6dc11359.chunk.js",
-    "main.js.map": "/contact-manager-redux/static/js/main.6dc11359.chunk.js.map",
+    "main.js": "/contact-manager-redux/static/js/main.f8a56e7b.chunk.js",
+    "main.js.map": "/contact-manager-redux/static/js/main.f8a56e7b.chunk.js.map",
     "runtime-main.js": "/contact-manager-redux/static/js/runtime-main.8a81168d.js",
     "runtime-main.js.map": "/contact-manager-redux/static/js/runtime-main.8a81168d.js.map",
     "static/css/2.69121389.chunk.css": "/contact-manager-redux/static/css/2.69121389.chunk.css",
-    "static/js/2.033beea0.chunk.js": "/contact-manager-redux/static/js/2.033beea0.chunk.js",
-    "static/js/2.033beea0.chunk.js.map": "/contact-manager-redux/static/js/2.033beea0.chunk.js.map",
+    "static/js/2.0578a55f.chunk.js": "/contact-manager-redux/static/js/2.0578a55f.chunk.js",
+    "static/js/2.0578a55f.chunk.js.map": "/contact-manager-redux/static/js/2.0578a55f.chunk.js.map",
     "index.html": "/contact-manager-redux/index.html",
-    "precache-manifest.36d0a3be1282bbd2210b8baccc4516a0.js": "/contact-manager-redux/precache-manifest.36d0a3be1282bbd2210b8baccc4516a0.js",
+    "precache-manifest.21a554661b7dd7c9799c0c45eee67283.js": "/contact-manager-redux/precache-manifest.21a554661b7dd7c9799c0c45eee67283.js",
     "service-worker.js": "/contact-manager-redux/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/contact-manager-redux/static/css/2.69121389.chunk.css.map",
     "static/css/main.36497136.chunk.css.map": "/contact-manager-redux/static/css/main.36497136.chunk.css.map",
-    "static/js/2.033beea0.chunk.js.LICENSE.txt": "/contact-manager-redux/static/js/2.033beea0.chunk.js.LICENSE.txt"
+    "static/js/2.0578a55f.chunk.js.LICENSE.txt": "/contact-manager-redux/static/js/2.0578a55f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a81168d.js",
     "static/css/2.69121389.chunk.css",
-    "static/js/2.033beea0.chunk.js",
+    "static/js/2.0578a55f.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.6dc11359.chunk.js"
+    "static/js/main.f8a56e7b.chunk.js"
   ]
 }
